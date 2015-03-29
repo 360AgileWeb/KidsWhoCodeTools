@@ -6,6 +6,8 @@
 * [D] (#d)
 * [G] (#g)
 * [H] (#h)
+* [S] (#s)
+* [T] (#t)
 
 
 ### A
@@ -19,6 +21,7 @@
 * [codeclub](https://www.codeclub.org.uk/)
 * [coderdojo](https://coderdojo.com/)
 * [code.org](http://code.org/learn)
+* [codeschool] (https://www.codeschool.com/)
 * [codingcamp.us](http://codingcamp.us/)
 
 ### D
@@ -30,5 +33,8 @@
 ### H
 * [Hour of Code](http://hourofcode.com/)
 
+### S
+* [scratch] (https://scratch.mit.edu/)
 ### T
  * [tynker] (https://www.tynker.com)
+
