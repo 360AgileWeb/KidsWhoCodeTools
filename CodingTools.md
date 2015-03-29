@@ -1,14 +1,15 @@
 
 ### Index
-* [Scratch-based Tools](#scratch-based-tools)
+* [A] (#scratch-based-tools)
 * [B] (#b)
 * [C] (#c)
 * [D] (#d)
 * [G] (#g)
+* [H] (#h)
 
 
-### Scratch-based Tools
-* [Hour of Code](http://hourofcode.com/)
+### A
+
 
 ### B
 * [barclayscodeplayground](http://barclayscodeplayground.co.uk/)
@@ -25,3 +26,9 @@
 
 ### G
 * [girlswhocode] (http://girlswhocode.com/)
+
+### H
+* [Hour of Code](http://hourofcode.com/)
+
+### T
+ * [tynker] (https://www.tynker.com)
