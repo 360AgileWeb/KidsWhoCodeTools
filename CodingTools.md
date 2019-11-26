@@ -34,9 +34,13 @@
 
 ### G
 * [girlswhocode] (http://girlswhocode.com/)
+* [Girls In Tech Paris] (https://paris.girlsintech.org/)
 
 ### H
 * [Hour of Code](http://hourofcode.com/)
+
+### I
+* [https://inspiring-girls.com] (https://inspiring-girls.com/)
 
 ### K
 * [kidscancode](http://kidscancode.org/)
